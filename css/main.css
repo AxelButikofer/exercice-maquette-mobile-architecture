@@ -63,6 +63,10 @@ main a {
   margin-bottom: 16px;
 }
 
+header {
+  padding-left: 7px;
+}
+
 header a {
   text-decoration: none;
 }
@@ -95,12 +99,11 @@ footer {
   padding-top: 30px;
 }
 
-.info {
+.info-list {
   font-size: 12px;
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  margin-top: 47px;
 }
 
 .link {
